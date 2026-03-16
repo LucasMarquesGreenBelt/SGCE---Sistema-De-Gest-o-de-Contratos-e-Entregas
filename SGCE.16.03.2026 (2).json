@@ -1,0 +1,716 @@
+{
+  "materiais": [
+    {
+      "id": "mmryrxsfqr4j1",
+      "codigoSap": "90000811",
+      "nome": "Decis",
+      "unidade": "KG",
+      "grupo": "Inseticida",
+      "composicao": "Deltametrina (piretroide sintético)"
+    },
+    {
+      "id": "mmryvp4drpvq4",
+      "codigoSap": "90000815",
+      "nome": "Esplanade",
+      "unidade": "KG",
+      "grupo": "Herbicida",
+      "composicao": "Indaziflam (inibidor de germinação de plantas daninhas)"
+    },
+    {
+      "id": "mmryw08ts6jd7",
+      "codigoSap": "90000099",
+      "nome": "Fordor",
+      "unidade": "KG",
+      "grupo": "Herbicida",
+      "composicao": "Sulfentrazone ou mistura similar (controle de plantas daninhas)"
+    },
+    {
+      "id": "mms00s8wmyyrz",
+      "codigoSap": "90000750",
+      "nome": "Ponteiro",
+      "unidade": "KG",
+      "grupo": "Herbicida",
+      "composicao": "Glyphosate ou mistura equivalente (varia por marca)"
+    },
+    {
+      "id": "mms06t7b5h3fo",
+      "codigoSap": "90000783",
+      "nome": "Actara",
+      "unidade": "KG",
+      "grupo": "Inseticida sistêmico",
+      "composicao": "Thiamethoxam (neonicotinóide)"
+    },
+    {
+      "id": "mms0aghfhljh2",
+      "codigoSap": "90000784",
+      "nome": "Dipel",
+      "unidade": "KG",
+      "grupo": "Inseticida biológico",
+      "composicao": "Bacillus thuringiensis var. kurstaki (Bt)"
+    },
+    {
+      "id": "mms0dzoxyjzxv",
+      "codigoSap": "90001069",
+      "nome": "Dinagro",
+      "unidade": "KG",
+      "grupo": "Inseticida / cupinicida",
+      "composicao": "Fipronil (pirazol)"
+    },
+    {
+      "id": "mms0ew4aytf62",
+      "codigoSap": "90000774",
+      "nome": "Fipronil",
+      "unidade": "KG",
+      "grupo": "Inseticida",
+      "composicao": "Fipronil (atua no sistema nervoso dos insetos)"
+    },
+    {
+      "id": "mms0g22xtyze7",
+      "codigoSap": "90000769",
+      "nome": "Agile",
+      "unidade": "KG",
+      "grupo": "Herbicida graminicida",
+      "composicao": "Cletodim + Haloxifope-P-metílico (inibidores ACCase)"
+    },
+    {
+      "id": "mms0hv38xfpo5",
+      "codigoSap": "90000801",
+      "nome": "Scout",
+      "unidade": "KG",
+      "grupo": "Inseticida",
+      "composicao": "Lambda-cialotrina ou mistura piretroide"
+    },
+    {
+      "id": "mms0j1exrzal2",
+      "codigoSap": "90000775",
+      "nome": "Sumyzin",
+      "unidade": "KG",
+      "grupo": "Inseticida",
+      "composicao": "Cartap hidrocloreto (grupo dos nereistoxinas)"
+    },
+    {
+      "id": "mms0k9b6ak474",
+      "codigoSap": "90000822",
+      "nome": "Óleo Mineral",
+      "unidade": "L",
+      "grupo": "Adjuvante / inseticida físico",
+      "composicao": "mistura de hidrocarbonetos parafínicos derivados de petróleo"
+    },
+    {
+      "id": "mms0l4benz3f3",
+      "codigoSap": "90000812",
+      "nome": "Isca Mirex",
+      "unidade": "KG",
+      "grupo": "Formicida",
+      "composicao": "Sulfluramida (inseticida usado em iscas para formigas)"
+    }
+  ],
+  "fornecedores": [
+    {
+      "nome": "Envu",
+      "cnpj": "",
+      "telefone": "6799302275",
+      "email": "luanna.gomes@envu.com",
+      "responsavel": "Luanna Gois",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mmryrxsfqr4j1",
+        "mmryvp4drpvq4",
+        "mmryw08ts6jd7"
+      ],
+      "id": "mmrytd6fzvaqv"
+    },
+    {
+      "nome": "Sumitomo",
+      "cnpj": "",
+      "telefone": "67996958705",
+      "email": "joslei.novosad@sumitomochemical.com",
+      "responsavel": "Joslei Novosad",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0aghfhljh2",
+        "mms0j1exrzal2"
+      ],
+      "id": "mms0og7tofyb3"
+    },
+    {
+      "nome": "Agro Jangada Florestal",
+      "cnpj": "",
+      "telefone": "31975551432",
+      "email": "mauricio.motter@syngenta.com",
+      "responsavel": "Mauricio Motter",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms00s8wmyyrz"
+      ],
+      "id": "mms0qxl3l9q4e",
+      "leadTime": 2
+    },
+    {
+      "nome": "Atta Kill",
+      "cnpj": "",
+      "telefone": "19999918217",
+      "email": "joao.gatti@agroceres.com",
+      "responsavel": "João Gatti",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0l4benz3f3"
+      ],
+      "id": "mms14mu0r2ehs",
+      "leadTime": 3
+    },
+    {
+      "nome": "Dinagro",
+      "cnpj": "",
+      "telefone": "16981267179",
+      "email": "mauricioromano@dinagro.com.br",
+      "responsavel": "Mauricio Romano",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0dzoxyjzxv"
+      ],
+      "id": "mms165b0e8xrh"
+    },
+    {
+      "nome": "Futuragro",
+      "cnpj": "",
+      "telefone": "4188817159",
+      "email": "Coletar",
+      "responsavel": "Marcelo",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0g22xtyze7"
+      ],
+      "id": "mms182cvhz61j"
+    },
+    {
+      "nome": "Monsanto - Bayer",
+      "cnpj": "",
+      "telefone": "35999022006",
+      "email": "roberto.abrahao@bayer.com",
+      "responsavel": "Roberto Abrahao",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0hv38xfpo5"
+      ],
+      "id": "mms19p8bt0c57"
+    },
+    {
+      "nome": "Syngenta",
+      "cnpj": "",
+      "telefone": "19971313383",
+      "email": "Coletar",
+      "responsavel": "Daniela Araujo",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms06t7b5h3fo"
+      ],
+      "id": "mms1btnjmbihv"
+    },
+    {
+      "nome": "Vital Brasil - Vital Force",
+      "cnpj": "",
+      "telefone": "1733211408",
+      "email": "amorelli@vitalfforce.com.br",
+      "responsavel": "Adrielle Morelli",
+      "endereco": "",
+      "contato": "",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0k9b6ak474"
+      ],
+      "id": "mms1fi26kxdxz"
+    },
+    {
+      "nome": "Yonon",
+      "cnpj": "",
+      "telefone": "11999389858",
+      "email": "luchobh@terra.com.br",
+      "responsavel": "Lucho Brena",
+      "endereco": "",
+      "contato": "Rafael Vicente - vicente.siulva@yongnongchem.com",
+      "observacoes": "",
+      "materiaisIds": [
+        "mms0ew4aytf62"
+      ],
+      "id": "mms1i9ntuvqyn"
+    }
+  ],
+  "contratos": [
+    {
+      "numero": "4600001739",
+      "fornecedorId": "mmrytd6fzvaqv",
+      "descricao": "Linha 10",
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "valor": 432406,
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mmryugaa8pygb",
+      "materialId": "mmryrxsfqr4j1"
+    },
+    {
+      "numero": "4600001835",
+      "fornecedorId": "mmrytd6fzvaqv",
+      "materialId": "mmryvp4drpvq4",
+      "descricao": "Linha 10",
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "valor": 467977759,
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mmrzdfcqy7oi3"
+    },
+    {
+      "numero": "4600001889",
+      "fornecedorId": "mmrytd6fzvaqv",
+      "materialId": "mmryw08ts6jd7",
+      "descricao": "Linha 10",
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "valor": 94728171,
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mmrzeplzdq3xb"
+    },
+    {
+      "numero": "4600001741",
+      "fornecedorId": "mms1btnjmbihv",
+      "materialId": "mms06t7b5h3fo",
+      "descricao": "",
+      "quantidadeContratada": 3379,
+      "precoUnitario": 110.22,
+      "valor": 372433.38,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1kforocvff"
+    },
+    {
+      "numero": "4600001776",
+      "fornecedorId": "mms0og7tofyb3",
+      "materialId": "mms0aghfhljh2",
+      "descricao": "",
+      "quantidadeContratada": 7928540,
+      "precoUnitario": 36.35,
+      "valor": 288202429,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1m7st9ag3i"
+    },
+    {
+      "numero": "4600001836",
+      "fornecedorId": "mms165b0e8xrh",
+      "materialId": "mms0dzoxyjzxv",
+      "descricao": "",
+      "quantidadeContratada": 40000,
+      "precoUnitario": 20.4,
+      "valor": 816000,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1o8oj1ebp9"
+    },
+    {
+      "numero": "4600001857",
+      "fornecedorId": "mms1i9ntuvqyn",
+      "materialId": "mms0ew4aytf62",
+      "descricao": "",
+      "quantidadeContratada": 1200,
+      "precoUnitario": 267,
+      "valor": 320400,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1p8810rti7"
+    },
+    {
+      "numero": "4600001847",
+      "fornecedorId": "mms182cvhz61j",
+      "materialId": "mms0g22xtyze7",
+      "descricao": "",
+      "quantidadeContratada": 4000,
+      "precoUnitario": 123.79,
+      "valor": 495160,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1qsbcjd4dw"
+    },
+    {
+      "numero": "4600001832",
+      "fornecedorId": "mms19p8bt0c57",
+      "materialId": "mms0hv38xfpo5",
+      "descricao": "",
+      "quantidadeContratada": 3507.2,
+      "precoUnitario": 22.27,
+      "valor": 78105.344,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1suhvya35f"
+    },
+    {
+      "numero": "4600001871",
+      "fornecedorId": "mms1fi26kxdxz",
+      "materialId": "mms0k9b6ak474",
+      "descricao": "",
+      "quantidadeContratada": 52920,
+      "precoUnitario": 7.58,
+      "valor": 401133.6,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1u04w0rjx0"
+    },
+    {
+      "numero": "4600001888",
+      "fornecedorId": "mms19p8bt0c57",
+      "materialId": "mms0hv38xfpo5",
+      "descricao": "",
+      "quantidadeContratada": 80000,
+      "precoUnitario": 22.27,
+      "valor": 1781600,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Ativo",
+      "observacoes": "",
+      "id": "mms1uwlu19kd0"
+    },
+    {
+      "numero": "4600001926",
+      "fornecedorId": "mms14mu0r2ehs",
+      "materialId": "mms0l4benz3f3",
+      "descricao": "",
+      "quantidadeContratada": 37800,
+      "precoUnitario": 10.28,
+      "valor": 388584,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Em Aprovação",
+      "observacoes": "",
+      "id": "mms1vrixisc8x"
+    },
+    {
+      "numero": "4600001940",
+      "fornecedorId": "mms0qxl3l9q4e",
+      "materialId": "mms00s8wmyyrz",
+      "descricao": "",
+      "quantidadeContratada": 28448,
+      "precoUnitario": 89,
+      "valor": 2531872,
+      "dataInicio": "2026-01-01",
+      "dataFim": "2026-01-12",
+      "status": "Em Aprovação",
+      "observacoes": "",
+      "id": "mms1wqbmhd4qy"
+    }
+  ],
+  "rcs": [
+    {
+      "numero": "PEND-MMS2FBD2",
+      "contratoId": "mms1vrixisc8x",
+      "materialId": "mms0l4benz3f3",
+      "semRC": true,
+      "localEntrega": "Divisão Bataguassu - MS",
+      "quantidade": 37800,
+      "valorUnitario": 10.28,
+      "data": "2026-03-15",
+      "status": "Concluída",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mms2gsxx8bfys",
+      "dataPrevisao": "2026-03-20"
+    },
+    {
+      "numero": "PEND-MMS3JEYS",
+      "contratoId": "mms1wqbmhd4qy",
+      "materialId": "mms00s8wmyyrz",
+      "semRC": true,
+      "localEntrega": "Divisão Água Clara - MS",
+      "quantidade": 10000,
+      "valorUnitario": 89,
+      "data": "2024-03-15",
+      "status": "Concluída",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mms3k2kbax8dr",
+      "dataPrevisao": "2026-03-20"
+    },
+    {
+      "numero": "PEND-MMS3KG3V",
+      "contratoId": "mms1wqbmhd4qy",
+      "materialId": "mms00s8wmyyrz",
+      "semRC": true,
+      "localEntrega": "Divisão Bataguassu - MS",
+      "quantidade": 10000,
+      "valorUnitario": 89,
+      "data": "2026-03-15",
+      "status": "Concluída",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mms3kuw8sq83d",
+      "dataPrevisao": "2026-03-20"
+    },
+    {
+      "numero": "PEND-MMSAVX0J",
+      "contratoId": "mmrzeplzdq3xb",
+      "materialId": "mmryw08ts6jd7",
+      "semRC": true,
+      "localEntrega": "Divisão Bataguassu - MS",
+      "quantidade": 1000,
+      "valorUnitario": 0,
+      "data": "2026-03-01",
+      "dataPrevisao": "",
+      "status": "Concluída",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsawh8apvmh7",
+      "historico": []
+    },
+    {
+      "numero": "PEND-MMSAWO2Z",
+      "contratoId": "mmrzeplzdq3xb",
+      "materialId": "mmryw08ts6jd7",
+      "semRC": true,
+      "localEntrega": "Divisão Água Clara - MS",
+      "quantidade": 1000,
+      "valorUnitario": 0,
+      "data": "2026-03-01",
+      "dataPrevisao": "",
+      "status": "Concluída",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsawm7vkypn4",
+      "historico": [
+        {
+          "de": "Pendente",
+          "para": "Concluída",
+          "data": "2026-03-15"
+        }
+      ]
+    }
+  ],
+  "entregas": [
+    {
+      "id": "mms4n23ge8mro",
+      "rcId": "mms2gsxx8bfys",
+      "quantidade": 37800,
+      "notaFiscal": "",
+      "data": "2026-03-15",
+      "status": "Rota de Entrega",
+      "observacoes": "Entrega gerada automaticamente ao concluir RC",
+      "autoCreated": true,
+      "dataPrevisao": "2026-03-19"
+    },
+    {
+      "id": "mms4n597w0gjb",
+      "rcId": "mms3k2kbax8dr",
+      "quantidade": 10000,
+      "notaFiscal": "",
+      "data": "2026-03-15",
+      "status": "Rota de Entrega",
+      "observacoes": "Entrega gerada automaticamente ao concluir RC",
+      "autoCreated": true,
+      "dataPrevisao": "2026-03-18"
+    },
+    {
+      "id": "mms4n7jdkn3se",
+      "rcId": "mms3kuw8sq83d",
+      "quantidade": 10000,
+      "notaFiscal": "",
+      "data": "2026-03-15",
+      "status": "Rota de Entrega",
+      "observacoes": "Entrega gerada automaticamente ao concluir RC",
+      "autoCreated": true,
+      "dataPrevisao": "2026-03-18"
+    },
+    {
+      "id": "mmsawh8anajf5",
+      "rcId": "mmsawh8apvmh7",
+      "quantidade": 1000,
+      "notaFiscal": "4961",
+      "data": "2026-03-01",
+      "dataPrevisao": "",
+      "localEntrega": "Divisão Bataguassu - MS",
+      "status": "Recebida",
+      "observacoes": "Entrega gerada automaticamente ao concluir RC",
+      "autoCreated": true,
+      "dataRecebimento": "2026-03-09"
+    },
+    {
+      "id": "mmsawtp63i1zn",
+      "rcId": "mmsawm7vkypn4",
+      "quantidade": 1000,
+      "notaFiscal": "4960",
+      "data": "2026-03-01",
+      "dataPrevisao": "",
+      "localEntrega": "Divisão Água Clara - MS",
+      "status": "Recebida",
+      "observacoes": "Entrega gerada automaticamente ao concluir RC",
+      "autoCreated": true,
+      "dataRecebimento": "2026-03-10"
+    }
+  ],
+  "pendencias": [
+    {
+      "assunto": "Solicitar MAP",
+      "criticidade": "Alta",
+      "status": "Em Andamento",
+      "envolvidos": "Isabella Silva Ribeiro",
+      "prazo": "",
+      "categoria": "Contrato",
+      "descricao": "Verificar andamento da solicitação do MAP com Isabella",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsa636cn3vnb"
+    },
+    {
+      "assunto": "Topinam - Arburst",
+      "criticidade": "Urgente",
+      "status": "Em Andamento",
+      "envolvidos": "Angelica - Marcela Capoani",
+      "prazo": "",
+      "categoria": "Material",
+      "descricao": "Solicitar urgentemente cadastro deste material",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsa7b6be94st"
+    },
+    {
+      "assunto": "Solicitar Scout",
+      "criticidade": "Alta",
+      "status": "Aberta",
+      "envolvidos": "Luciano",
+      "prazo": "",
+      "categoria": "Material",
+      "descricao": "Verificar com luciano se podemos pedir 80.000 de scout se sim para qual divisão?",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsa8hee1ojid"
+    },
+    {
+      "assunto": "Confirmar entrega Sumyzin",
+      "criticidade": "Média",
+      "status": "Aberta",
+      "envolvidos": "Almox",
+      "prazo": "",
+      "categoria": "Entrega",
+      "descricao": "Confirmar se material já chegou",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsa9an7bz5jk"
+    },
+    {
+      "assunto": "Esplanade",
+      "criticidade": "Baixa",
+      "status": "Em Andamento",
+      "envolvidos": "Luanna",
+      "prazo": "2026-03-16",
+      "categoria": "Entrega",
+      "descricao": "Foi entregue 1932kg e ficou faltando entregar 732 em Água Clara",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsaanmlmhr6j"
+    },
+    {
+      "assunto": "Dinagro",
+      "criticidade": "Baixa",
+      "status": "Aberta",
+      "envolvidos": "Luciano",
+      "prazo": "",
+      "categoria": "Material",
+      "descricao": "Consultar se não vamos pedir por agora",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsablwmlnc5y"
+    },
+    {
+      "assunto": "Óleo Mineral - Essence - Cadastro",
+      "criticidade": "Urgente",
+      "status": "Aberta",
+      "envolvidos": "Luciano - Angelica - Lucas Rafael - Time Cadastros",
+      "prazo": "",
+      "categoria": "Documentação",
+      "descricao": "Pegar com Lucas Rafael nome do aprendiz que faz cadastros e realizar cadastro e realizar o quanto antes.",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsadcdk5whxu"
+    },
+    {
+      "assunto": "Polimero",
+      "criticidade": "Alta",
+      "status": "Em Andamento",
+      "envolvidos": "Elane Beirão",
+      "prazo": "",
+      "categoria": "Material",
+      "descricao": "Pegar contrato gel pelimero com elane ( contrato spot até semana que vem? )",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsafy9s7xk8l"
+    },
+    {
+      "assunto": "RC FORDOR - AMPLIAÇÃO? 9511 E 9516",
+      "criticidade": "Urgente",
+      "status": "Em Andamento",
+      "envolvidos": "Francine",
+      "prazo": "",
+      "categoria": "Contrato",
+      "descricao": "Material 90000425 não está atualizado no centro 9511 e 9516 ampliação?",
+      "observacoes": "",
+      "dataCriacao": "2026-03-15",
+      "id": "mmsbteqpbnrml"
+    },
+    {
+      "assunto": "Inventário - Resultado Emflors",
+      "criticidade": "Urgente",
+      "status": "Aberta",
+      "envolvidos": "Conversar com Envolvidos",
+      "prazo": "",
+      "categoria": "Outro",
+      "descricao": "Fechamento inventario Emflors",
+      "observacoes": "",
+      "dataCriacao": "2026-03-16",
+      "id": "mmsf6xgy5wv0e",
+      "vinculoRcId": "",
+      "vinculoContratoId": ""
+    }
+  ],
+  "_meta": {
+    "app": "SGCE",
+    "version": "2.0",
+    "exportDate": "2026-03-16T06:21:07.507Z"
+  },
+  "settings": {
+    "theme": "dark"
+  },
+  "emailConfig": {
+    "ccEmails": [],
+    "corpoEmail": "Prezados,\n\nSegue em anexo a solicitação de compra conforme requisição referenciada no assunto.\n\nFicamos à disposição para quaisquer esclarecimentos.\n\nAtenciosamente,"
+  },
+  "quickNotes": ""
+}
